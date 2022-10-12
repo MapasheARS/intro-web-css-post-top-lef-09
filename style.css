@@ -36,6 +36,7 @@ h2 {
   height: 580px;
   width: 100%;
   /* Agrega tu código aquí */
+  position: absolute;
 }
 
 
@@ -43,4 +44,6 @@ h2 {
 #flappy-bird {
   position: absolute;
   /* Agrega tu código aquí */
+ bottom: 50px;
+ left: 50px;
 }
